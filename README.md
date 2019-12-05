@@ -1,5 +1,5 @@
 # tf2-wheels
-Builded wheels for TF2.
+Builded wheels for Tensorflow 2.0 (TF2.0)
 
 Version | Python | Arch | System | CUDA/CUDNN | Link
 --------|--------|------|--------|----|---------|
