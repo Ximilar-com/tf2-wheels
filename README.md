@@ -1,5 +1,5 @@
 # tf2-wheels
-Builded python (pip) wheels for Tensorflow 2.0 (TF2.0)
+Builded python (pip) wheels for Tensorflow 2.+ (TF2.+)
 
 TF Version | Python | Arch | System | CUDA/CUDNN | TensorRT | Link
 --------|--------|------|--------|----|-------|---------|
