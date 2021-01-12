@@ -11,8 +11,9 @@ TF Version | Python | Arch | System | CUDA/CUDNN | TensorRT | Link
 
 
 # tf2-addons
-Builded python (pip) wheels for TF-Addons 2.2
+Builded python (pip) wheels for TF-Addons 2.2 (from forked repository with deformable conv)
 
 TF Version | Python | Arch | System | CUDA/CUDNN | TensorRT | Link
 --------|--------|------|--------|----|-------|---------|
+0.13.0dev | 3.6 | GPU | CentOS | 11/8.0 | No | [link](https://github.com/Ximilar-com/tf2-wheels/releases/download/tfa-0.13.0/tensorflow_addons-0.13.0.dev0-cp36-cp36m-linux_x86_64.whl)
 0.11.0dev | 3.6 | GPU | CentOS | 10.0.130/7.5 | No | [link](https://github.com/Ximilar-com/tf2-wheels/releases/download/0.11.0dev0/tensorflow_addons-0.11.0.dev0-cp36-cp36m-linux_x86_64.whl)
